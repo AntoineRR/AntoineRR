@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi and welcome to my GitHub profile !
+
+I'm a 22 years old french engineer student, and I am making several IT projects at school or during my free time!
+
+On my GitHub profile, you'll find some of my student works and some side projects too! I try not to stick too much to one programming langage to have the wider view of the development spectrum possible. I currently tried C++, C# with Unity, Python with ML, SQL databases, Web development (HTML, CSS, JS as frontend, and PHP as backend), Java, and even the Basic Casio langage (the one I started with back in high school...)!
+
+I did internships in companies like BMW and Thalès Alenia Space, where I had to develop software with or without the help of other people, and it improved my knowledge a lot. Recently, during a gap year, I worked on 3 small projects with companies and other students to aquire more knowledge about machine learning and data processing. I also did some personal projects when I had some nice ideas or wanted to try something new!
+
+Feel free to check my work on the following repositories!
 
 <!--
 **AntoineRR/AntoineRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

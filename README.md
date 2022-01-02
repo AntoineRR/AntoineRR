@@ -1,10 +1,10 @@
 ### Hi and welcome to my GitHub profile!
 
-I'm a 23 years old french engineer student, and I am making several IT projects at school or during my free time.
+I'm a newly graduated (Ecole Centrale de Nantes) french engineer, and I am making several computer science related projects during my free time.
 
-On my GitHub profile, you'll find some of my student works and some side projects too. I try not to stick too much to one programming language and stay open minded. I currently tried Rust, C++, C# with Unity, Python with machine learning, SQL databases, Web development (HTML, CSS, JS as frontend, and PHP as backend), Java, and even the Basic Casio langage (the one I started with back in high school...).
+On my GitHub profile, you'll find some of my student works and some side projects too. I develop software using Rust, C++, C# with Unity, Python, SQL databases, Web development (HTML, CSS, JS, React as frontend, FastAPI as backend). I like to try new things and stay open minded!
 
-Feel free to check my work on the following repositories!
+Feel free to check my work on my [portfolio website](https://antoinerr.github.io/portfolio-website/)!
 
 <!--
 **AntoineRR/AntoineRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

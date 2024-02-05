@@ -3,7 +3,7 @@
 ### About me
 
 - 💻 Software development engineer
-- 🇫🇷 French currently living in Dublin
+- 🇫🇷 French currently living in Nantes
 - 🧗‍♂️ I also play piano, do calisthenics and bouldering
 
 ### Techs I use
